@@ -1,6 +1,5 @@
 ---
 
-<div align="center">
 
 # LABORATORIO DE PROGRAMACIÓN AVANZADA
 ## PRÁCTICA N° 1: MANEJO DE PRUEBAS UNITARIAS EN ANGULAR
@@ -20,7 +19,7 @@
 **CÓDIGO:** SGC.DI.505  
 **VERSIÓN:** 2.0  
 
-</div>
+
 
 ---
 
