@@ -1,0 +1,118 @@
+/* Estilos para el componente de testing */
+/* Autor: Estudiante Hernández */
+
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #34495e;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+}
+
+.curso {
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+.visibility-section {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid #bdc3c7;
+  border-radius: 5px;
+}
+
+.mensaje-visible {
+  background-color: #d5f4e6;
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.contador-section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.contador-valor {
+  font-weight: bold;
+  color: #e74c3c;
+  font-size: 1.2em;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 5px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn-incrementar {
+  background-color: #27ae60;
+  color: white;
+}
+
+.btn-decrementar {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.btn-reset {
+  background-color: #95a5a6;
+  color: white;
+}
+
+.btn-toggle {
+  background-color: #3498db;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.lista-section {
+  margin: 20px 0;
+  padding: 15px;
+  border-left: 4px solid #9b59b6;
+}
+
+.lista-numeros {
+  list-style-type: none;
+  padding: 0;
+}
+
+.numero-item {
+  padding: 5px;
+  margin: 2px 0;
+  background-color: #ecf0f1;
+  border-radius: 3px;
+}
+
+.saludo-section {
+  margin: 20px 0;
+  padding: 15px;
+  text-align: center;
+  background-color: #fff9c4;
+  border-radius: 5px;
+}
+
+.saludo {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #8e44ad;
+}
